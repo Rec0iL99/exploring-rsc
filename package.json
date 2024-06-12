@@ -1,0 +1,17 @@
+{
+  "name": "render-rsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^18.3.0-canary-d6dcad6a8-20230914",
+    "react-dom": "^18.3.0-canary-d6dcad6a8-20230914",
+    "react-server-dom-webpack": "^18.3.0-canary-d6dcad6a8-20230914"
+  }
+}
